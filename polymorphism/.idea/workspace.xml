@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b8a89f4-6099-47b5-8fbb-852ab6b7c991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FirstTask/FirstTask/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/src/main/java/com/stepup/payments/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-pay/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2y8SuPBvKIgWs7IGaBOYau0Oh4p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b8a89f4-6099-47b5-8fbb-852ab6b7c991" name="Changes" comment="" />
+      <created>1749214928555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749214928555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
