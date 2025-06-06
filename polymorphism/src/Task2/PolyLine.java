@@ -1,8 +1,9 @@
 package Task2;
 
 import Task1.Point;
+import Task3.Measurable;
 
-public class PolyLine {
+public class PolyLine implements Measurable {
     Point[] points;
 
     public PolyLine(Point... points) {
@@ -18,5 +19,10 @@ public class PolyLine {
             sum += Math.sqrt(len1 * len1 + len2 * len2);
         }
         return sum;
+    }
+
+    @Override
+    public double getLength() {
+        return length();
     }
 }

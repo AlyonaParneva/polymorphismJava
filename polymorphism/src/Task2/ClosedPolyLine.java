@@ -2,7 +2,7 @@ package Task2;
 
 import Task1.Point;
 
-class ClosedPolyLine extends PolyLine {
+public class ClosedPolyLine extends PolyLine {
 
     public ClosedPolyLine(Point... points) {
         super(points);
